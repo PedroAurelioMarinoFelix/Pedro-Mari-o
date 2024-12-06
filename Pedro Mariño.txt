@@ -1,0 +1,31 @@
+Aplicación web interna para gestionar la forma eficiente de sus tareas. 
+
+ 
+
+Funciones:  
+
+Los usuarios pueden agregar tareas  
+
+Las tareas pueden clasificarse como completadas  
+
+Las tareas se pueden eliminar 
+
+ 
+
+Tecnologías: 
+
+Framework Css 
+
+JavaScript 
+
+HTML 
+
+GitHub 
+
+ 
+
+Tome la decisión de utilizar JavaScript ya que es uno de los lenguajes de programación recomendado para poder realizar un proyecto porque es muy versátil y amigable. 
+
+De igual forma css es un lenguaje que me gusta mucho para el diseño por lo practico que es para separar el contenido de la presentación visual de una página ya que me permite aplicar estilos de manera consistente a un sitio web, así como también Crea una experiencia de usuario excelente, ya que hace que la interfaz del sitio web sea más agradable a la vista y fácil de navegar y unas de las cosas que más me gusta es que Evita hacer archivos demasiado pesados y El sitio web se descarga más rápido. 
+
+Y por parte de HTML decidí utilizarlo ya que nos permite Mostrar texto, imágenes, videos, botones, formularios y listas, así como también nos permite Organizar la forma en que se mostrará el contenido de una página y los documentos creados con HTML son ligeros. 
